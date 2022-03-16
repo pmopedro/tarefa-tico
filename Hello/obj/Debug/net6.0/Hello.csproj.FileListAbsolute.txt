@@ -1,0 +1,15 @@
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/Hello
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/Hello.deps.json
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/Hello.runtimeconfig.json
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/Hello.dll
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/ref/Hello.dll
+/home/pedro/projects/programa-tico/Hello/bin/Debug/net6.0/Hello.pdb
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.csproj.AssemblyReference.cache
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.AssemblyInfoInputs.cache
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.AssemblyInfo.cs
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.csproj.CoreCompileInputs.cache
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.dll
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/ref/Hello.dll
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.pdb
+/home/pedro/projects/programa-tico/Hello/obj/Debug/net6.0/Hello.genruntimeconfig.cache

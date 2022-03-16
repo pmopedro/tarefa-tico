@@ -1,0 +1,15 @@
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ponderada
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ponderada.deps.json
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ponderada.runtimeconfig.json
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ponderada.dll
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ref/ponderada.dll
+/home/pedro/projects/programa-tico/ponderada/bin/Debug/net6.0/ponderada.pdb
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.csproj.AssemblyReference.cache
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.AssemblyInfoInputs.cache
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.AssemblyInfo.cs
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.csproj.CoreCompileInputs.cache
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.dll
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ref/ponderada.dll
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.pdb
+/home/pedro/projects/programa-tico/ponderada/obj/Debug/net6.0/ponderada.genruntimeconfig.cache

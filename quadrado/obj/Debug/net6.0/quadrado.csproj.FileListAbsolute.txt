@@ -1,0 +1,15 @@
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.csproj.AssemblyReference.cache
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.AssemblyInfoInputs.cache
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.AssemblyInfo.cs
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.csproj.CoreCompileInputs.cache
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/quadrado
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/quadrado.deps.json
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/quadrado.runtimeconfig.json
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/quadrado.dll
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/ref/quadrado.dll
+/home/pedro/projects/programa-tico/quadrado/bin/Debug/net6.0/quadrado.pdb
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.dll
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/ref/quadrado.dll
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.pdb
+/home/pedro/projects/programa-tico/quadrado/obj/Debug/net6.0/quadrado.genruntimeconfig.cache
