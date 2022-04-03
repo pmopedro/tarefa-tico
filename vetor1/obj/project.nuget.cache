@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KoNc6GT76a9KmF0I6H7GzfeetiLxbmghGKlTOVOSqtp8WW9OTWosklzpbPt+pb3LsL7ooO1D7DIoeKEgYGMWGQ==",
+  "success": true,
+  "projectFilePath": "/home/pedro/projects/programa-tico/vetor1/vetor1.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

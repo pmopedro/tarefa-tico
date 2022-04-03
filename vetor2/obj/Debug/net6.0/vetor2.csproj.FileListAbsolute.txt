@@ -1,0 +1,15 @@
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.csproj.AssemblyReference.cache
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.AssemblyInfoInputs.cache
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.AssemblyInfo.cs
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.csproj.CoreCompileInputs.cache
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/vetor2
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/vetor2.deps.json
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/vetor2.runtimeconfig.json
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/vetor2.dll
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/ref/vetor2.dll
+/home/pedro/projects/programa-tico/vetor2/bin/Debug/net6.0/vetor2.pdb
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.dll
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/ref/vetor2.dll
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.pdb
+/home/pedro/projects/programa-tico/vetor2/obj/Debug/net6.0/vetor2.genruntimeconfig.cache
